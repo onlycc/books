@@ -13,7 +13,6 @@
 		"-lunr", 
 		"-search", 
 		"search-pro",
-		"donate",
 		"splitter"
 	],
 	"pluginsConfig": {

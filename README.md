@@ -1,4 +1,6 @@
 # 知识库
 
-* [网络](./network/network.md)
-* [Javascript](./js/js.md)
+```sh
+# 执行脚本 提交文档
+bash build.sh
+```
