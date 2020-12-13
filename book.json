@@ -13,7 +13,12 @@
 		"-lunr", 
 		"-search", 
 		"search-pro",
-		"splitter"
+		"splitter",
+	    "url-embed",
+		"theme-comscore", 
+		"multipart", 
+		"popup", 
+		"todo"
 	],
 	"pluginsConfig": {
 		"editlink": {
